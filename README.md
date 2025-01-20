@@ -1,2 +1,8 @@
 # Klasifikasi-Kanker-Payudara-Dengan-XGBC
 PENERAPAN GRADIENT BOOST UNTUK KLASIFIKASI TUMOR JINAK DAN GANAS PADA DATASET KANKER PAYUDARA
+
+Kanker payudara adalah salah satu jenis kanker paling umum yang dialami oleh wanita di seluruh dunia. Menurut World Health Organization (WHO), kanker payudara menyumbang lebih dari 25% kasus kanker yang didiagnosis setiap tahun pada wanita (Ferlay et al., 2020). Deteksi dini memainkan peran penting dalam meningkatkan tingkat kelangsungan hidup pasien, karena kanker yang didiagnosis pada tahap awal memiliki peluang lebih besar untuk ditangani secara efektif (Ghoncheh et al., 2016). Namun, proses diagnosis tradisional seringkali memakan waktu, memerlukan keahlian khusus, dan terkadang menghasilkan hasil yang tidak konsisten (Elmore et al., 2015).
+
+Dengan berkembangnya teknologi kecerdasan buatan (AI), khususnya pembelajaran mesin, berbagai algoritma telah diterapkan untuk mendukung analisis data medis. Salah satu metode yang terbukti efektif adalah Gradient Boosting, sebuah pendekatan ensemble yang menggabungkan beberapa model sederhana untuk menghasilkan prediksi yang akurat (Friedman, 2001). Algoritma ini mampu menangkap pola kompleks dalam data dengan cara yang efisien dan fleksibel, sehingga sangat cocok untuk tugas klasifikasi seperti diagnosis kanker payudara (Chen & Guestrin, 2016).
+
+Dataset yang digunakan dalam penelitian ini merupakan dataset kanker payudara yang diambil dari Kaggle dengan judul Breast Cancer Dataset, yang dapat diakses melalui tautan Breast Cancer Dataset - Kaggle. Dataset ini terdiri dari 569 baris data dengan 32 kolom, yang mencakup 30 fitur numerik hasil pengukuran karakteristik sel dari biopsi payudara, 1 kolom target diagnosis tumor (diagnosis), serta 1 kolom ID. 
